@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Before We Leave®
+</title>
+  <based-in>Based in Dunedin (Ōtepoti), Aotearoa New Zealand</based-in>
+  <founding-date>9 May 2020</founding-date>
+  <website>http://balancingmonkeygames.com</website>
+  <press-contact>
+    contact@balancingmonkeygames.com
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <phone>n/a</phone>
+
+  <address>
+    <line>
+      <!-- Street -->
+    </line>
+    <line>
+      <!-- City -->
+      Dunedin (Ōtepoti)
+    </line>
+    <line>
+      <!-- Country -->
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Twitter</name>
+      <link>
+        https://twitter.com/BalancingMonkey
+      </link>
+    </social>
+    <social>
+      <name>Facebook</name>
+      <link>
+        https://www.facebook.com/Balancing-Monkey-Games-505429826908375
+      </link>
+    </social>
+    <social>
+      <name>Discord</name>
+      <link>
+        https://discord.com/invite/beforeweleave
+      </link>
+    </social>
+    <social>
+      <name>Reddit</name>
+      <link>
+        https://www.reddit.com/r/beforeweleave/
+      </link>
+    </social>
+  </socials>
+
+  <description>
+    Before We Leave is a non-violent city building game set in your own cozy corner of the universe. Rediscover and rebuild civilization. Create a multi-planet resource network. Overcome ancient challenges and fend off hungry space whales.
+    Your people have spent generations underground. They’ve missed the caress of sun on skin, the squelch of soil between toes, the tickle of flies on noses. They emerge, full of wonder, and with absolutely no idea how to grow anything except potatoes.
+    Rebuild civilization by building huts, harvesting… potatoes and expanding your reborn society to other continents and eventually other planets. Manage resources, discover ancient tech and create a planetary network of colonies to thrive in your solar system.
+    But the universe is not safe. Ancient, ancestral guardians demand attention and challenge your cities. The planets you inhabit are scarred by the disasters that drove your forebears underground, and those catastrophes will punish poorly managed worlds.
+    Before We Leave is a (mostly) non-violent game. There are no weapons, no battles with neighbours for control of resources. You can, however, perish at the flippers of vast planet-gobbling space whales that graze on your worlds and threaten your civilization.
+    Play, chill out, and expand the fabric of your reborn society at your own pace and create your own solar system of rehabilitated planets. Just watch out for those pesky gigantic intergalactic plankton-feeders.
+  </description>
+
+  <!-- Choose between a single block: -->
+  <!-- <history></history> -->
+
+  <!-- Or multiple blocks: -->
+  
+  <histories>
+    <history>
+      <header>Before We Leave is the first game created by Balancing Monkey Games®; with development starting in 2017.</header>
+      <text>Balancing Monkey Games is a boutique independent game developer based in Dunedin (Ōtepoti), Aotearoa New Zealand. We create non-violent games that aim to relax and entertain our players, while building a positive and uplifting community that reflects our ideals. It is our mission to make peaceful, accessible and culturally relevant games that enable us to support our local communities. We’re also ambitious for our games and brand to be globally recognised.
+</text>
+    </history>
+  </histories>
+ 
+
+  <trailers>
+    <trailer>
+      <name></name>
+
+      <!-- Pick one: -->
+      <youtube>
+        m-A0yXP50d4
+      </youtube>
+      <youtube>
+        sFoiJMtNVF4
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <awards>
+    <award>
+      <description>The Pavs (New Zealand Games Festival Awards) 2020:</description>
+      <info>
+        Winner: The Composed Segment: Excellence in Audio
+        Finalist: The Decorative Piece: Excellence in Visual Art
+        Finalist: The ‘Slice of Heaven’ Grand Prize
+      </info>
+    </award>
+    <award>
+      <description>Kiwi Game Starter (New Zealand Game Developers Association)</description>
+      <info>
+        First Place 2019
+        Finalist 2018 (under the working title “Before”)
+      </info>
+    </award>  
+  </awards>
+
+  <quotes>
+    <quote>
+      <description>NZ Game Festival</description>
+      <name>The Pavs</name>
+      <website>https://nzgamesfest.com/2020-finalists/</website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title>Soundtrack</title>
+      <description>Before We Leave (Original Game Soundtrack) by Benedict Nichols</description>
+      <link>https://open.spotify.com/album/21CZZNzNXN4l1ygm7vpBaI?si=Xq1w-WTPSNOQESCU6qdgfA</link>
+    </additional>
+      <additional>
+      <title>Platforms</title>
+      <description>PC: Epic Games Store</description>
+      <link>https://www.epicgames.com/store/en-US/product/before-we-leave/home</link>
+    </additional>
+  </additionals>
+
+  <credits>
+
+    <credit>
+      <role>Sam Barham</role>
+      <person>Creative Director</person>
+    </credit>
+
+    <credit>
+      <role>Christian 'Akacro' Redding</role>
+      <person>Design Consultant</person>
+    </credit>
+
+    <credit>
+      <role>Isaac Bennett</role>
+      <person>Coding</person>
+    </credit>
+
+    <credit>
+      <role>Rafal Urbanski</role>
+      <person>Art</person>
+    </credit>
+
+    <credit>
+      <role>Edd Coates</role>
+      <person>UI Art</person>
+    </credit>
+
+    <credit>
+      <role>Filipe Pinto</role>
+      <role> Reiker von Motschelnitz</role>
+      <role> John Barham</role>
+      <person>Concept Art</person>
+    </credit>
+
+    <credit>
+      <role>Benedict Nichols</role>
+      <person>Music</person>
+    </credit>
+
+    <credit>
+      <role>James Dean</role>
+      <role>Matt Caradus</role>
+      <person>Sound Design</person>
+    </credit>
+
+    <credit>
+      <role>Vicarious PR</role>
+      <role>Tim Ponting</role>
+      <role>Chris Dwyer</role>
+      <person>Marketing</person>
+    </credit>
+
+   <credit>
+    <role>KeyWords Studios</role>
+    <role> Victor Ramsés</role>
+    <role> Snow_Leopard</role>
+    <role> Adiel Holguin a.k.a. Mr_In</role>
+    <role> ABertrand Ciesielski</role> 
+    <role> Liobuster</role>
+    <role> Luca Di Vincenzo</role>
+    <person>Localization</person>
+  </credit>
+
+  <credit>
+    <role>Saf Davidson</role>
+    <person>Writer</person>
+  </credit>
+
+  <credit>
+    <role>Emily Latta</role>
+    <person>Community and Media Manager</person>
+  </credit>
+
+  <credit>
+    <role>Vanessa Williams</role>
+    <person>Trailer Editor</person>
+  </credit>
+
+  <credit>
+    <role>Managing Director</role>
+    <person>Anna Barham</person>
+  </credit>
+
+  <credit>
+    <person>Built Using</person>
+    <role>Unity by Unity Technologies</role>
+    <role> Unity by Unity Technologies</role>
+    <role> Unity by Unity Technologies</role>
+    <role> FMOD Studio by Firelight Technologies Pty Ltd.</role>
+    <role> Hexasphere by Arscan</role>
+    <role> Planet Generator by Andy Gainey</role>
+    <role> Spacescape by Alex Peterson</role>
+    <role> Planetary Atmospheric Scattering by Christopher Silvas</role>
+    <role> Sun Shader by Panteleymonov Aleksandr</role>
+    <role> Stylized Water Shader by Staggart Creations</role>
+    <role> Ultimate VFX by Mirza Beig</role>
+    <role> Amplify Occlusion by Amplify Creations</role>
+    <role> I2 Localization by Inter Illusion</role>
+    <role> Vectrosity by Starscene Software</role>
+  </credit>
+
+  <credit>
+    <person>QA</person>
+    <role>KeyWords Studios</role>
+  </credit>
+
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>contact@balancingmonkeygames.com</name>
+
+      <!-- Pick one: -->
+      <mail></mail>
+      <link></link>
+    </contact>
+  </contacts>
+</company>
